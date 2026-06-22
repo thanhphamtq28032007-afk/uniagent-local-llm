@@ -19,4 +19,5 @@ docker_output/
 *.iso
 
 .env
-.DS_Store
+.DS_Storedocx_lines.txt
+error_log.txt
